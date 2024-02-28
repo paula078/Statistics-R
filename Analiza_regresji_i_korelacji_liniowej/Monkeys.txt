@@ -1,0 +1,7 @@
+Nr	Name	DomRank	Eggs
+1	Alfa	1	5777
+2	Beta	2	1625
+3	Gamma	3	1174
+4	Delta	4	949
+5	Theta	5	749
+6	Omega	6	870
